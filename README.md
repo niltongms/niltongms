@@ -1,10 +1,7 @@
 ## Hi, Everybody! My name is Nilton, i'm software engineer
  - 🎖️ Currently, a member of the Brazilian Air Force
  - 👨🏻‍💻 Front-end Developer and UI/UX Design
-<div align="center">
-  <a href="https://devnilton.vercel.app/">
-  <img height="180em" src="https://streak-stats.demolab.com?user=devnilton&theme=prussian"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nilton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nilton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
