@@ -3,8 +3,7 @@
  - 👨🏻‍💻 Postgraduate degree in Software Engineering
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-| ------------- | ------------- |
+![Niltimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
   
 <div style="display: inline_block"><br>
