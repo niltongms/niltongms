@@ -3,8 +3,8 @@
  - 👨🏻‍💻 Postgraduate degree in Software Engineering
 
 
-![Niltimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Niltimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=niltimn&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niltimn&hide_progress=true)
 
   
 <div style="display: inline_block"><br>
