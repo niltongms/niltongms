@@ -4,7 +4,7 @@
 
 
 ![Niltimn's GitHub stats](https://github-readme-stats.vercel.app/api?username=niltimn&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niltimn&layout=donut)](https://github.com/niltimn/github-readme-stats)
 
 
   
