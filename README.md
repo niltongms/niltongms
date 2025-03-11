@@ -1,6 +1,6 @@
 ## Hi, Everybody! My name is Nilton, i'm software engineer
- - 🎖️ Currently, a Full Stack Developer intern of the Brazilian Air Force
- - 👨🏻‍💻 Postgraduate degree in Software Engineering
+ - 🎖️ I am currently a student of Information Technology Management at CESAR School
+ - 👨🏻‍💻 I hold a degree in Systems Analysis and Development and a post-graduate degree in Software Engineering
 
 
 
