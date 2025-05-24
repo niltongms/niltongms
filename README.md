@@ -5,7 +5,7 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Elenilton Gomes
- 👩🏻‍💻 Sou uma desenvolvedora fullstack, criativa e apaixonada por tecnologia.<br>
+ 👩🏻‍💻 Sou um Engenheiro de Software, criativo, curioso e apaixonado por tecnologia.<br>
  ⚡ Formado em ADS na UCB<br>
  ⚡ Pós graduado em Engenharia de Software pela Faculdade Focus.<br>
  👩‍🎓 Graduando em Gestão de Tecnologia da Informação na CESAR School<br>
