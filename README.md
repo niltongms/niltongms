@@ -33,8 +33,8 @@
 
 <div align="center">
   <a href="https://github.com/niltongms">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=niltongms&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltongms&theme=tokyonight&hide_border=true&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=niltongms&theme=tokyonight&hide_border=true&show_icons=true&hide_title=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltongms&theme=tokyonight&hide_border=true&layout=compact&hide_title=true"/>
   </a>
 </div>
 
@@ -54,10 +54,12 @@
   <img alt="Spring Boot" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <br><br>
   
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
@@ -70,9 +72,6 @@
   </a> 
   <a href="mailto:niltonsgms@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://instagram.com/niltu.dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
