@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! Eu sou Elenilton Gomes
+  ## Hello, world! Eu sou Elenilton Gomes
   
   <p>
     <b>Desenvolvedor Full Stack | Pós-graduado em Engenharia de Software</b>
